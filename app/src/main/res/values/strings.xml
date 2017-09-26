@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Secrets</string>
+    <string name="strPassword">Password</string>
+    <string name="strOk">OK</string>
+    <string name="strAdd">Add</string>
+    <string name="strView">View/Edit</string>
 </resources>

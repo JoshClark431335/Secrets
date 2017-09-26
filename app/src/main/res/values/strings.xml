@@ -4,4 +4,8 @@
     <string name="strOk">OK</string>
     <string name="strAdd">Add</string>
     <string name="strView">View/Edit</string>
+    <string name="strSave">Save</string>
+    <string name="strCancel">Cancel</string>
+    <string name="strJournalEntry">Dear Diary...</string>
+    <string name="strDelete">Delete</string>
 </resources>

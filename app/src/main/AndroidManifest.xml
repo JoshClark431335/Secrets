@@ -18,7 +18,7 @@
         </activity>
         <activity android:name=".ActionActivity" />
         <activity android:name=".AddActivity" />
-        <activity android:name=".ViewEditActivity"></activity>
+        <activity android:name=".ViewEditActivity"/>
     </application>
 
 </manifest>
